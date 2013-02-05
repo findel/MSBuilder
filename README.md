@@ -16,4 +16,4 @@ Then, when you have finished work using the editor of your choice, build using t
 
 Good idea? Bad idea? 
 
-I'm looking for input and/or collaborators.
+I'm looking for input and/or collaborators. Feel free to open an Issue with your thoughts.
